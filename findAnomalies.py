@@ -91,9 +91,3 @@ if __name__ == '__main__':
                                 cur.execute(sql, (id_metrics,))               
     finally:
         conn.close()
-
-
-    
-    
-    
-    
