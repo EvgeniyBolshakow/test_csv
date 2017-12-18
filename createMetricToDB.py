@@ -1,11 +1,3 @@
-﻿# -*- coding: utf-8 -*-
-'''
-Created on 13 дек. 2017 г.
-
-@author: Администратор
-'''
-
-
 if __name__ == '__main__':
     
     import os, csv, sys
